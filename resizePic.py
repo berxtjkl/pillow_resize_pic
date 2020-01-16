@@ -12,6 +12,6 @@ for i in tempList1:
     print(temp[1])
     new_height = temp[1]
     img = img.resize((int(new_width), int(new_height)), Image.ANTIALIAS)
-    image_fullsize.save('./sets/originPicName-'+new_width+"-"+new_height +
+    img.save('./sets/originPicName-'+new_width+"-"+new_height +
              ".jpg", quality=95)  # format may what u want ,*.png,*jpg,*.gif
 img.close()
