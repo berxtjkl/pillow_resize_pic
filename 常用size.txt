@@ -1,0 +1,36 @@
+Profile picture sizes
+Twitter profile picture size: 
+	400px x 400px
+Facebook profile picture size: 
+	170px x 170px pixels (desktop) and 128px x 128px (smartphones)
+Instagram profile picture size: 
+	110px x 110px (min.)
+Pinterest profile picture size: 
+	165px x 165px
+LinkedIn profile picture size: 
+	400px x 400px, 300px x 300px (company logo), 60px x 60px (square logo)
+YouTube profile picture size: 
+	800px x 800px
+Medium profile picture size: 
+	60px x 60px (publication avatar), 1000px x 500px (max.) (logo image)
+Tumblr profile picture size: 
+	128px x 128px
+TikTok profile picture size: 
+	200px x 200px
+
+
+400,400
+170,170
+128,128
+110,110
+165,165
+400,400
+300,300
+60,60
+800,800
+60,60
+1000,500
+128,128
+200,200
+
+tempList = ["400,400","170,170","128,128","110,110","165,165","400,400","300,300","60,60","800,800","60,60","1000,500","128,128","200,200"]
